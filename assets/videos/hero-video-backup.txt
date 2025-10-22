@@ -1,0 +1,8 @@
+HERO VIDEO BACKUP
+=================
+
+Original Hero Video URL (replaced on 2025-10-21):
+https://player.vimeo.com/external/434045526.sd.mp4?s=c27eecc69a27dbc4ff2b87d38afc35f1a9e7c02d&profile_id=164&oauth2_token_id=57447761
+
+This was the original Vimeo video used in the hero section background.
+Replaced with: hero2.webm (local file)
